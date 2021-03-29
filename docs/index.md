@@ -38,7 +38,7 @@ __Pacific Northwest National Lab__, Richland, WA
 - Used R and Visual Sample Plan to establish new sampling algorithms
 - Published a journal article in Environmental Quality.
 
-### Data Science Lead
+### Data Science Lea
 
 `April 2027 - June 2027`
 __Westmark Credit Union__, Consultant
