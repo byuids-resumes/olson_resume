@@ -1,9 +1,8 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Spencer Olson's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints..
+# Spencer Olson
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,15 +15,16 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints..
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`Aug 2011 - Apr 2013`
+__Southern Virginia University__, Buena Vista, VA
 
-- Full academic scholarship with 4.0 GPA
+`Aug 2016 - Dec 2018`
+__Central Texas College__, Killeen, TX
 
-`Expected 2029`
+`Jan 2019 - July 2021`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Biology Major with emphasis in Bioinformatics
 
 
 ## Related Experience
@@ -73,17 +73,18 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`Oct 2013 - July 2014`
+__Volunteer__, LDS Bishops' Storehouse, Farmington Hills, MI
 
+`Jan 2015 - May 2015`
+__Vendor__, QuickTurn Merchandising, Killeen, TX
 
-`2023-2025`
-__Service Missionary__, South Africa
-
+`Jun 2015 - Jul 2016`
+__Collections Agent__, GC Services, Copperas Cove, TX
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Mar 2021 -->
 
 
