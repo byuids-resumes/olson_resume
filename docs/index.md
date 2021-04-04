@@ -105,10 +105,10 @@ __Eagle Scout Award__, Boy Scouts of America
 
 ## Activities and Interests
 
-Orchestra (cello), Cooking/baking, Ceramics, Art, Gardening
+Orchestra (Cello), Cooking/Baking, Ceramics, Art, Gardening
 
 <!-- ### Footer
 
-Last updated: Mar 2021 -->
+Last updated: Apr 2021 -->
 
 
