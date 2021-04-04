@@ -2,16 +2,20 @@
 layout: cv
 title: Spencer Olson's Resume
 ---
-# Spencer Olson
+# Spencer C. Olson
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+phone: 806-831-8961 | 
+<a href="spencer.christian.olson@gmail.com">spencer.christian.olson@gmail.com</a>
+| <a href="https://www.linkedin.com/in/spencer-c-olson/">LinkedIn</a>
+| <a href="https://github.com/spencercolson">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
+
+
+## Objective
+To learn and gain work experience in the fields of Data Science and Bioinformatics.
 
 ## Education
 
@@ -27,7 +31,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Biology Major with emphasis in Bioinformatics
 
 
-## Related Experience
+<!-- ## Related Experience
 
 ### Internships
 
@@ -68,20 +72,40 @@ __Pinnacle Management Group__,
 
 - Proof of concept development of dashboards using client's corporate data.
 - Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Saved client $10k in database and dashboard server fees and validated future dashboard processes. -->
 
 
 ## Service and Work History
 
 `Oct 2013 - July 2014`
-__Volunteer__, LDS Bishops' Storehouse, Farmington Hills, MI
 
-`Jan 2015 - May 2015`
+__Volunteer__, LDS Bishops' Storehouse, Farmington Hills, MI
+ - assisted customers
+ - stocked shelves, prepared produce, and cleaned warehouse
+
+`Feb 2015 - May 2015`
+
 __Vendor__, QuickTurn Merchandising, Killeen, TX
+ - Seasonal nursery work in Lowe’s Garden Center
 
 `Jun 2015 - Jul 2016`
-__Collections Agent__, GC Services, Copperas Cove, TX
 
+__Collections Agent__, GC Services, Copperas Cove, TX
+ - Call center collections and customer service for Toyota Financial Services
+
+
+## Awards
+
+`July 2011`
+
+__Eagle Scout Award__, Boy Scouts of America
+
+ - Eagle Scout Project: Arranging for and supervising the landscaping at a memorial for a longtime local board member and gardening advocate at the Lubbock Memorial Arboretum (Lubbock, Texas)
+
+
+## Activities and Interests
+
+Orchestra (cello), Cooking/baking, Ceramics, Art, Gardening
 
 <!-- ### Footer
 
